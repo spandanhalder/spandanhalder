@@ -1,3 +1,5 @@
+![Welcome GIF](gif/shinchan.gif)
+
 ### Hi there 👋
 
 <!--
