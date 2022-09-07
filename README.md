@@ -5,10 +5,7 @@
 </p>
 
 <h3 align="center">Hey, I'm Spandan 👋</h3>
-<h5 align="center">A lazy programmer</h5>
-
-
-
+<h5 align="center"><i>A lazy programmer</i></h5>
 
 <!--
 **spandanhalder/spandanhalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
