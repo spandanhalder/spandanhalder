@@ -4,7 +4,8 @@
     >
 </p>
 
-## Hey, I'm Spandan!
+### Hey, I'm Spandan 👋
+
 
 
 <!--
