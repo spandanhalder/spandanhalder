@@ -1,4 +1,8 @@
-<img align="center" src="gif/shinchan.gif">
+<p align="center">
+    <img
+        src="gif/shinchan.gif">
+    >
+</p>
 
 ### Hi there 👋
 
