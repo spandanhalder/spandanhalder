@@ -1,4 +1,4 @@
-![Welcome GIF](gif/shinchan.gif)
+<img align="center" src="gif/shinchan.gif">
 
 ### Hi there 👋
 
