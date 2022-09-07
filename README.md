@@ -4,7 +4,9 @@
     >
 </p>
 
-### Hey, I'm Spandan 👋
+<h3 align="center">Hey, I'm Spandan 👋</h3>
+<h4 align="center">A lazy programmer</h4>
+
 
 
 
