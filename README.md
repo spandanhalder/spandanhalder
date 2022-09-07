@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="gif/shinchan.gif">
+        src="gif/shinchan.gif"
     >
 </p>
 
